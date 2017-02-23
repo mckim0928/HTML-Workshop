@@ -1,0 +1,28 @@
+#landing {
+  text-align: center;
+}
+
+body {
+  
+}
+.name {
+  font-size: 100px;
+}
+
+.description {
+  font-size: 50px;
+}
+
+#picture {
+  height: 100px;
+  width: 100px;
+  margin: auto;
+}
+
+#highlights{
+  margin-top: 2vh;
+}
+
+#prettify {
+  padding:0;
+}
